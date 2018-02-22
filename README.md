@@ -7,7 +7,7 @@ Hi I'm David. I come from Colombia and I want to learn about coding and software
 
 - CHECK_NRPE {Remote desktop connection > Adm. Tools > services > compare_nsclient.ini  > Notepad - Run as administrator > copy_nsclient.ini > Save as nsclient.ini > restart}
 
-SNMP :
+SNMP : (Task manager=>>See running processes
 
 State critical or Unknown: Check uptime (snmp)- Connect snmp remotely :
 
@@ -22,5 +22,8 @@ State critical or Unknown: Check uptime (snmp)- Connect snmp remotely :
     7- Identify the PID
     8- In the same command prompt type taskkill /pid [pid number] /f
     9- Press Enter
+    
+    
+   
 
                                                                                                                                                   
